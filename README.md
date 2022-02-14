@@ -5,7 +5,7 @@ A collection of DynamoDB helpers written in Golang to assit with reading and wri
 ## Installation
 
 ```
-go get github.com/clearbit/go-ddb
+go get github.com/samit22/go-ddb
 ```
 
 ## Parallel Scan
