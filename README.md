@@ -50,9 +50,3 @@ scanner := ddb.NewScanner(ddb.Config{
 })
 ```
 
-## License
-
-go-ddb is copyright © 2016 Clearbit. It is free software, and may
-be redistributed under the terms specified in the [`LICENSE`] file.
-
-[`LICENSE`]: /MIT-LICENSE
