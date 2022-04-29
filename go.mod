@@ -1,4 +1,4 @@
-module github.com/samit22/go-ddb
+module github.com/cloudfactory/go-ddb
 
 go 1.16
 
